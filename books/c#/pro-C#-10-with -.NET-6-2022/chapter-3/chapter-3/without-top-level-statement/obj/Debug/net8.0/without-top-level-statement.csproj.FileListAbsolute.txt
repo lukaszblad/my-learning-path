@@ -1,0 +1,15 @@
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-3\chapter-3\without-top-level-statement\bin\Debug\net8.0\without-top-level-statement.exe
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-3\chapter-3\without-top-level-statement\bin\Debug\net8.0\without-top-level-statement.deps.json
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-3\chapter-3\without-top-level-statement\bin\Debug\net8.0\without-top-level-statement.runtimeconfig.json
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-3\chapter-3\without-top-level-statement\bin\Debug\net8.0\without-top-level-statement.dll
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-3\chapter-3\without-top-level-statement\bin\Debug\net8.0\without-top-level-statement.pdb
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-3\chapter-3\without-top-level-statement\obj\Debug\net8.0\without-top-level-statement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-3\chapter-3\without-top-level-statement\obj\Debug\net8.0\without-top-level-statement.AssemblyInfoInputs.cache
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-3\chapter-3\without-top-level-statement\obj\Debug\net8.0\without-top-level-statement.AssemblyInfo.cs
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-3\chapter-3\without-top-level-statement\obj\Debug\net8.0\without-top-level-statement.csproj.CoreCompileInputs.cache
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-3\chapter-3\without-top-level-statement\obj\Debug\net8.0\without-top-level-statement.sourcelink.json
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-3\chapter-3\without-top-level-statement\obj\Debug\net8.0\without-top-level-statement.dll
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-3\chapter-3\without-top-level-statement\obj\Debug\net8.0\refint\without-top-level-statement.dll
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-3\chapter-3\without-top-level-statement\obj\Debug\net8.0\without-top-level-statement.pdb
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-3\chapter-3\without-top-level-statement\obj\Debug\net8.0\without-top-level-statement.genruntimeconfig.cache
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-3\chapter-3\without-top-level-statement\obj\Debug\net8.0\ref\without-top-level-statement.dll

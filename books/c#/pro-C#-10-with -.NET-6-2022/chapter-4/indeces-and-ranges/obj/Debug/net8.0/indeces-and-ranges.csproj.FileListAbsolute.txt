@@ -1,0 +1,15 @@
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-4\indeces-and-ranges\bin\Debug\net8.0\indeces-and-ranges.exe
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-4\indeces-and-ranges\bin\Debug\net8.0\indeces-and-ranges.deps.json
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-4\indeces-and-ranges\bin\Debug\net8.0\indeces-and-ranges.runtimeconfig.json
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-4\indeces-and-ranges\bin\Debug\net8.0\indeces-and-ranges.dll
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-4\indeces-and-ranges\bin\Debug\net8.0\indeces-and-ranges.pdb
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-4\indeces-and-ranges\obj\Debug\net8.0\indeces-and-ranges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-4\indeces-and-ranges\obj\Debug\net8.0\indeces-and-ranges.AssemblyInfoInputs.cache
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-4\indeces-and-ranges\obj\Debug\net8.0\indeces-and-ranges.AssemblyInfo.cs
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-4\indeces-and-ranges\obj\Debug\net8.0\indeces-and-ranges.csproj.CoreCompileInputs.cache
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-4\indeces-and-ranges\obj\Debug\net8.0\indeces-and-ranges.sourcelink.json
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-4\indeces-and-ranges\obj\Debug\net8.0\indeces-and-ranges.dll
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-4\indeces-and-ranges\obj\Debug\net8.0\refint\indeces-and-ranges.dll
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-4\indeces-and-ranges\obj\Debug\net8.0\indeces-and-ranges.pdb
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-4\indeces-and-ranges\obj\Debug\net8.0\indeces-and-ranges.genruntimeconfig.cache
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-4\indeces-and-ranges\obj\Debug\net8.0\ref\indeces-and-ranges.dll

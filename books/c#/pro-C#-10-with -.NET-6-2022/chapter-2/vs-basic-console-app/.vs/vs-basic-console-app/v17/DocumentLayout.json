@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lukas\\Desktop\\Repositories\\my-learning-path\\books\\c#\\pro-C#-10-with -.NET-6-2022\\chapter-2\\vs-basic-console-app\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60C60A8F-A1A0-453E-BBD6-B38D7D3693EC}|vs-basic-console-app\\vs-basic-console-app.csproj|c:\\users\\lukas\\desktop\\repositories\\my-learning-path\\books\\c#\\pro-c#-10-with -.net-6-2022\\chapter-2\\vs-basic-console-app\\vs-basic-console-app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60C60A8F-A1A0-453E-BBD6-B38D7D3693EC}|vs-basic-console-app\\vs-basic-console-app.csproj|solutionrelative:vs-basic-console-app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lukas\\Desktop\\Repositories\\my-learning-path\\books\\c#\\pro-C#-10-with -.NET-6-2022\\chapter-2\\vs-basic-console-app\\vs-basic-console-app\\Program.cs",
+              "RelativeDocumentMoniker": "vs-basic-console-app\\Program.cs",
+              "ToolTip": "C:\\Users\\lukas\\Desktop\\Repositories\\my-learning-path\\books\\c#\\pro-C#-10-with -.NET-6-2022\\chapter-2\\vs-basic-console-app\\vs-basic-console-app\\Program.cs",
+              "RelativeToolTip": "vs-basic-console-app\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T15:54:15.127Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

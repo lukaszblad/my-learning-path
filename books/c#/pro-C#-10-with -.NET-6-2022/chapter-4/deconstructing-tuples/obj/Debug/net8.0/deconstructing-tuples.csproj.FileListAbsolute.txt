@@ -1,0 +1,15 @@
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-4\deconstructing-tuples\bin\Debug\net8.0\deconstructing-tuples.exe
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-4\deconstructing-tuples\bin\Debug\net8.0\deconstructing-tuples.deps.json
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-4\deconstructing-tuples\bin\Debug\net8.0\deconstructing-tuples.runtimeconfig.json
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-4\deconstructing-tuples\bin\Debug\net8.0\deconstructing-tuples.dll
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-4\deconstructing-tuples\bin\Debug\net8.0\deconstructing-tuples.pdb
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-4\deconstructing-tuples\obj\Debug\net8.0\deconstructing-tuples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-4\deconstructing-tuples\obj\Debug\net8.0\deconstructing-tuples.AssemblyInfoInputs.cache
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-4\deconstructing-tuples\obj\Debug\net8.0\deconstructing-tuples.AssemblyInfo.cs
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-4\deconstructing-tuples\obj\Debug\net8.0\deconstructing-tuples.csproj.CoreCompileInputs.cache
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-4\deconstructing-tuples\obj\Debug\net8.0\deconstructing-tuples.sourcelink.json
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-4\deconstructing-tuples\obj\Debug\net8.0\deconstructing-tuples.dll
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-4\deconstructing-tuples\obj\Debug\net8.0\refint\deconstructing-tuples.dll
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-4\deconstructing-tuples\obj\Debug\net8.0\deconstructing-tuples.pdb
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-4\deconstructing-tuples\obj\Debug\net8.0\deconstructing-tuples.genruntimeconfig.cache
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-4\deconstructing-tuples\obj\Debug\net8.0\ref\deconstructing-tuples.dll

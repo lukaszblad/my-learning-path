@@ -1,0 +1,36 @@
+﻿C# Equality/Relational 
+Operator
+
+Example Usage Meaning in Life
+
+== if(age == 30) Returns true only if each expression is the same 
+
+!= if("Foo" != myStr) Returns true only if each expression is different 
+
+< if(bonus < 2000) Returns true if expression A (bonus) is less than 
+expression B (2000)
+
+> if(bonus > 2000) Returns true if expression A (bonus) is greater than 
+expression B (2000)
+
+<= if(bonus <= 2000) Returns true if expression A (bonus) is less than or 
+equal to expression B (2000)
+
+>= if(bonus >= 2000) Returns true if expression A (bonus) is greater than or 
+equal to expression B (2000)
+
+First up is the if/else statement. Unlike in C and C++, the if/else statement in C# operates only on 
+Boolean expressions, not ad hoc values such as –1 or 0.
+
+Operator Example Meaning in Life
+&& if(age == 30 && name == 
+"Fred")
+
+AND operator. Returns true if all expressions are true.
+
+|| if(age == 30 || name == 
+"Fred")
+
+OR operator. Returns true if at least one expression is true.
+
+! if(!myBool) NOT operator. Returns true if false, or false if true.

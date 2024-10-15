@@ -1,0 +1,15 @@
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-3\chapter-3\declaring-types\bin\Debug\net8.0\declaring-types.exe
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-3\chapter-3\declaring-types\bin\Debug\net8.0\declaring-types.deps.json
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-3\chapter-3\declaring-types\bin\Debug\net8.0\declaring-types.runtimeconfig.json
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-3\chapter-3\declaring-types\bin\Debug\net8.0\declaring-types.dll
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-3\chapter-3\declaring-types\bin\Debug\net8.0\declaring-types.pdb
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-3\chapter-3\declaring-types\obj\Debug\net8.0\declaring-types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-3\chapter-3\declaring-types\obj\Debug\net8.0\declaring-types.AssemblyInfoInputs.cache
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-3\chapter-3\declaring-types\obj\Debug\net8.0\declaring-types.AssemblyInfo.cs
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-3\chapter-3\declaring-types\obj\Debug\net8.0\declaring-types.csproj.CoreCompileInputs.cache
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-3\chapter-3\declaring-types\obj\Debug\net8.0\declaring-types.sourcelink.json
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-3\chapter-3\declaring-types\obj\Debug\net8.0\declaring-types.dll
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-3\chapter-3\declaring-types\obj\Debug\net8.0\refint\declaring-types.dll
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-3\chapter-3\declaring-types\obj\Debug\net8.0\declaring-types.pdb
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-3\chapter-3\declaring-types\obj\Debug\net8.0\declaring-types.genruntimeconfig.cache
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-3\chapter-3\declaring-types\obj\Debug\net8.0\ref\declaring-types.dll

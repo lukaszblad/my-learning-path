@@ -1,0 +1,15 @@
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-3\chapter-3\simple-csharp-app\bin\Debug\net8.0\simple-csharp-app.exe
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-3\chapter-3\simple-csharp-app\bin\Debug\net8.0\simple-csharp-app.deps.json
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-3\chapter-3\simple-csharp-app\bin\Debug\net8.0\simple-csharp-app.runtimeconfig.json
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-3\chapter-3\simple-csharp-app\bin\Debug\net8.0\simple-csharp-app.dll
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-3\chapter-3\simple-csharp-app\bin\Debug\net8.0\simple-csharp-app.pdb
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-3\chapter-3\simple-csharp-app\obj\Debug\net8.0\simple-csharp-app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-3\chapter-3\simple-csharp-app\obj\Debug\net8.0\simple-csharp-app.AssemblyInfoInputs.cache
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-3\chapter-3\simple-csharp-app\obj\Debug\net8.0\simple-csharp-app.AssemblyInfo.cs
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-3\chapter-3\simple-csharp-app\obj\Debug\net8.0\simple-csharp-app.csproj.CoreCompileInputs.cache
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-3\chapter-3\simple-csharp-app\obj\Debug\net8.0\simple-csharp-app.sourcelink.json
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-3\chapter-3\simple-csharp-app\obj\Debug\net8.0\simple-csharp-app.dll
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-3\chapter-3\simple-csharp-app\obj\Debug\net8.0\refint\simple-csharp-app.dll
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-3\chapter-3\simple-csharp-app\obj\Debug\net8.0\simple-csharp-app.pdb
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-3\chapter-3\simple-csharp-app\obj\Debug\net8.0\simple-csharp-app.genruntimeconfig.cache
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-3\chapter-3\simple-csharp-app\obj\Debug\net8.0\ref\simple-csharp-app.dll
