@@ -1,0 +1,15 @@
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-5\encapsulation-using-properties\bin\Debug\net8.0\encapsulation-using-properties.exe
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-5\encapsulation-using-properties\bin\Debug\net8.0\encapsulation-using-properties.deps.json
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-5\encapsulation-using-properties\bin\Debug\net8.0\encapsulation-using-properties.runtimeconfig.json
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-5\encapsulation-using-properties\bin\Debug\net8.0\encapsulation-using-properties.dll
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-5\encapsulation-using-properties\bin\Debug\net8.0\encapsulation-using-properties.pdb
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-5\encapsulation-using-properties\obj\Debug\net8.0\encapsulation-using-properties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-5\encapsulation-using-properties\obj\Debug\net8.0\encapsulation-using-properties.AssemblyInfoInputs.cache
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-5\encapsulation-using-properties\obj\Debug\net8.0\encapsulation-using-properties.AssemblyInfo.cs
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-5\encapsulation-using-properties\obj\Debug\net8.0\encapsulation-using-properties.csproj.CoreCompileInputs.cache
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-5\encapsulation-using-properties\obj\Debug\net8.0\encapsulation-using-properties.sourcelink.json
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-5\encapsulation-using-properties\obj\Debug\net8.0\encapsulation-using-properties.dll
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-5\encapsulation-using-properties\obj\Debug\net8.0\refint\encapsulation-using-properties.dll
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-5\encapsulation-using-properties\obj\Debug\net8.0\encapsulation-using-properties.pdb
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-5\encapsulation-using-properties\obj\Debug\net8.0\encapsulation-using-properties.genruntimeconfig.cache
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-5\encapsulation-using-properties\obj\Debug\net8.0\ref\encapsulation-using-properties.dll

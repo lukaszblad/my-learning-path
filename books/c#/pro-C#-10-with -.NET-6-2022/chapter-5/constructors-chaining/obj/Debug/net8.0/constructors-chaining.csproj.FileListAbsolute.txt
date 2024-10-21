@@ -1,0 +1,15 @@
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-5\constructors-chaining\bin\Debug\net8.0\constructors-chaining.exe
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-5\constructors-chaining\bin\Debug\net8.0\constructors-chaining.deps.json
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-5\constructors-chaining\bin\Debug\net8.0\constructors-chaining.runtimeconfig.json
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-5\constructors-chaining\bin\Debug\net8.0\constructors-chaining.dll
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-5\constructors-chaining\bin\Debug\net8.0\constructors-chaining.pdb
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-5\constructors-chaining\obj\Debug\net8.0\constructors-chaining.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-5\constructors-chaining\obj\Debug\net8.0\constructors-chaining.AssemblyInfoInputs.cache
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-5\constructors-chaining\obj\Debug\net8.0\constructors-chaining.AssemblyInfo.cs
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-5\constructors-chaining\obj\Debug\net8.0\constructors-chaining.csproj.CoreCompileInputs.cache
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-5\constructors-chaining\obj\Debug\net8.0\constructors-chaining.sourcelink.json
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-5\constructors-chaining\obj\Debug\net8.0\constructors-chaining.dll
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-5\constructors-chaining\obj\Debug\net8.0\refint\constructors-chaining.dll
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-5\constructors-chaining\obj\Debug\net8.0\constructors-chaining.pdb
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-5\constructors-chaining\obj\Debug\net8.0\constructors-chaining.genruntimeconfig.cache
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-5\constructors-chaining\obj\Debug\net8.0\ref\constructors-chaining.dll

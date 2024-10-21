@@ -1,0 +1,15 @@
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-5\partial-classes\obj\Debug\net8.0\partial-classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-5\partial-classes\obj\Debug\net8.0\partial-classes.AssemblyInfoInputs.cache
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-5\partial-classes\obj\Debug\net8.0\partial-classes.AssemblyInfo.cs
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-5\partial-classes\obj\Debug\net8.0\partial-classes.csproj.CoreCompileInputs.cache
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-5\partial-classes\obj\Debug\net8.0\partial-classes.sourcelink.json
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-5\partial-classes\bin\Debug\net8.0\partial-classes.exe
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-5\partial-classes\bin\Debug\net8.0\partial-classes.deps.json
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-5\partial-classes\bin\Debug\net8.0\partial-classes.runtimeconfig.json
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-5\partial-classes\bin\Debug\net8.0\partial-classes.dll
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-5\partial-classes\bin\Debug\net8.0\partial-classes.pdb
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-5\partial-classes\obj\Debug\net8.0\partial-classes.dll
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-5\partial-classes\obj\Debug\net8.0\refint\partial-classes.dll
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-5\partial-classes\obj\Debug\net8.0\partial-classes.pdb
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-5\partial-classes\obj\Debug\net8.0\partial-classes.genruntimeconfig.cache
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-5\partial-classes\obj\Debug\net8.0\ref\partial-classes.dll

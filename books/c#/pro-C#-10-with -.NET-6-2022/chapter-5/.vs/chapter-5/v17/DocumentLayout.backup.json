@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lukas\\Desktop\\Repositories\\my-learning-path\\books\\c#\\pro-C#-10-with -.NET-6-2022\\chapter-5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6336E848-4019-4404-AC86-1E88F78F83F2}|partial-classes\\partial-classes.csproj|c:\\users\\lukas\\desktop\\repositories\\my-learning-path\\books\\c#\\pro-c#-10-with -.net-6-2022\\chapter-5\\partial-classes\\program.partial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6336E848-4019-4404-AC86-1E88F78F83F2}|partial-classes\\partial-classes.csproj|solutionrelative:partial-classes\\program.partial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6336E848-4019-4404-AC86-1E88F78F83F2}|partial-classes\\partial-classes.csproj|c:\\users\\lukas\\desktop\\repositories\\my-learning-path\\books\\c#\\pro-c#-10-with -.net-6-2022\\chapter-5\\partial-classes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6336E848-4019-4404-AC86-1E88F78F83F2}|partial-classes\\partial-classes.csproj|solutionrelative:partial-classes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED983122-6663-4725-92FC-3ED6E4DB9085}|readonly-fields\\readonly-fields.csproj|c:\\users\\lukas\\desktop\\repositories\\my-learning-path\\books\\c#\\pro-c#-10-with -.net-6-2022\\chapter-5\\readonly-fields\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED983122-6663-4725-92FC-3ED6E4DB9085}|readonly-fields\\readonly-fields.csproj|solutionrelative:readonly-fields\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D78FA791-04E0-4BC4-99AA-CFDAD136B627}|constant-data\\constant-data.csproj|c:\\users\\lukas\\desktop\\repositories\\my-learning-path\\books\\c#\\pro-c#-10-with -.net-6-2022\\chapter-5\\constant-data\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D78FA791-04E0-4BC4-99AA-CFDAD136B627}|constant-data\\constant-data.csproj|solutionrelative:constant-data\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.Partial.cs",
+              "DocumentMoniker": "C:\\Users\\lukas\\Desktop\\Repositories\\my-learning-path\\books\\c#\\pro-C#-10-with -.NET-6-2022\\chapter-5\\partial-classes\\Program.Partial.cs",
+              "RelativeDocumentMoniker": "partial-classes\\Program.Partial.cs",
+              "ToolTip": "C:\\Users\\lukas\\Desktop\\Repositories\\my-learning-path\\books\\c#\\pro-C#-10-with -.NET-6-2022\\chapter-5\\partial-classes\\Program.Partial.cs",
+              "RelativeToolTip": "partial-classes\\Program.Partial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T15:04:23.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lukas\\Desktop\\Repositories\\my-learning-path\\books\\c#\\pro-C#-10-with -.NET-6-2022\\chapter-5\\partial-classes\\Program.cs",
+              "RelativeDocumentMoniker": "partial-classes\\Program.cs",
+              "ToolTip": "C:\\Users\\lukas\\Desktop\\Repositories\\my-learning-path\\books\\c#\\pro-C#-10-with -.NET-6-2022\\chapter-5\\partial-classes\\Program.cs",
+              "RelativeToolTip": "partial-classes\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T15:00:20.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lukas\\Desktop\\Repositories\\my-learning-path\\books\\c#\\pro-C#-10-with -.NET-6-2022\\chapter-5\\readonly-fields\\Program.cs",
+              "RelativeDocumentMoniker": "readonly-fields\\Program.cs",
+              "ToolTip": "C:\\Users\\lukas\\Desktop\\Repositories\\my-learning-path\\books\\c#\\pro-C#-10-with -.NET-6-2022\\chapter-5\\readonly-fields\\Program.cs",
+              "RelativeToolTip": "readonly-fields\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T14:56:00.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lukas\\Desktop\\Repositories\\my-learning-path\\books\\c#\\pro-C#-10-with -.NET-6-2022\\chapter-5\\constant-data\\Program.cs",
+              "RelativeDocumentMoniker": "constant-data\\Program.cs",
+              "ToolTip": "C:\\Users\\lukas\\Desktop\\Repositories\\my-learning-path\\books\\c#\\pro-C#-10-with -.NET-6-2022\\chapter-5\\constant-data\\Program.cs",
+              "RelativeToolTip": "constant-data\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T12:26:33.486Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

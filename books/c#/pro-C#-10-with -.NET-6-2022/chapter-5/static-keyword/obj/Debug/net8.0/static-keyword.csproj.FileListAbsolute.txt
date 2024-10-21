@@ -1,0 +1,15 @@
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-5\static-keyword\bin\Debug\net8.0\static-keyword.exe
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-5\static-keyword\bin\Debug\net8.0\static-keyword.deps.json
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-5\static-keyword\bin\Debug\net8.0\static-keyword.runtimeconfig.json
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-5\static-keyword\bin\Debug\net8.0\static-keyword.dll
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-5\static-keyword\bin\Debug\net8.0\static-keyword.pdb
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-5\static-keyword\obj\Debug\net8.0\static-keyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-5\static-keyword\obj\Debug\net8.0\static-keyword.AssemblyInfoInputs.cache
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-5\static-keyword\obj\Debug\net8.0\static-keyword.AssemblyInfo.cs
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-5\static-keyword\obj\Debug\net8.0\static-keyword.csproj.CoreCompileInputs.cache
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-5\static-keyword\obj\Debug\net8.0\static-keyword.sourcelink.json
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-5\static-keyword\obj\Debug\net8.0\static-keyword.dll
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-5\static-keyword\obj\Debug\net8.0\refint\static-keyword.dll
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-5\static-keyword\obj\Debug\net8.0\static-keyword.pdb
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-5\static-keyword\obj\Debug\net8.0\static-keyword.genruntimeconfig.cache
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-5\static-keyword\obj\Debug\net8.0\ref\static-keyword.dll
