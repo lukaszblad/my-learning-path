@@ -48,6 +48,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tuples", "tuples\tuples.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "deconstructing-tuples", "deconstructing-tuples\deconstructing-tuples.csproj", "{ADE151F5-138A-4AE6-9761-F7F12DBB05D6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "value-and-reference-types", "value-and-reference-types\value-and-reference-types.csproj", "{90DD3A8C-A19B-4CFD-A0BA-7D6665BA2044}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -134,6 +136,10 @@ Global
 		{ADE151F5-138A-4AE6-9761-F7F12DBB05D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ADE151F5-138A-4AE6-9761-F7F12DBB05D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ADE151F5-138A-4AE6-9761-F7F12DBB05D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90DD3A8C-A19B-4CFD-A0BA-7D6665BA2044}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90DD3A8C-A19B-4CFD-A0BA-7D6665BA2044}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90DD3A8C-A19B-4CFD-A0BA-7D6665BA2044}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90DD3A8C-A19B-4CFD-A0BA-7D6665BA2044}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

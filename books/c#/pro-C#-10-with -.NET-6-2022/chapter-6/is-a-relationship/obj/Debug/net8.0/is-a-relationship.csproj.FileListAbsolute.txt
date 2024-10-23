@@ -1,0 +1,15 @@
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-6\is-a-relationship\bin\Debug\net8.0\is-a-relationship.exe
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-6\is-a-relationship\bin\Debug\net8.0\is-a-relationship.deps.json
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-6\is-a-relationship\bin\Debug\net8.0\is-a-relationship.runtimeconfig.json
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-6\is-a-relationship\bin\Debug\net8.0\is-a-relationship.dll
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-6\is-a-relationship\bin\Debug\net8.0\is-a-relationship.pdb
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-6\is-a-relationship\obj\Debug\net8.0\is-a-relationship.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-6\is-a-relationship\obj\Debug\net8.0\is-a-relationship.AssemblyInfoInputs.cache
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-6\is-a-relationship\obj\Debug\net8.0\is-a-relationship.AssemblyInfo.cs
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-6\is-a-relationship\obj\Debug\net8.0\is-a-relationship.csproj.CoreCompileInputs.cache
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-6\is-a-relationship\obj\Debug\net8.0\is-a-relationship.sourcelink.json
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-6\is-a-relationship\obj\Debug\net8.0\is-a-relationship.dll
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-6\is-a-relationship\obj\Debug\net8.0\refint\is-a-relationship.dll
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-6\is-a-relationship\obj\Debug\net8.0\is-a-relationship.pdb
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-6\is-a-relationship\obj\Debug\net8.0\is-a-relationship.genruntimeconfig.cache
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-6\is-a-relationship\obj\Debug\net8.0\ref\is-a-relationship.dll
