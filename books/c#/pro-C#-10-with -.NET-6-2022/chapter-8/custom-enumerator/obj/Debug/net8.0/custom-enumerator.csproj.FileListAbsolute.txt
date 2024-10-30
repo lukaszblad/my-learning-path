@@ -1,0 +1,15 @@
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-8/custom-enumerator/bin/Debug/net8.0/custom-enumerator
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-8/custom-enumerator/bin/Debug/net8.0/custom-enumerator.deps.json
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-8/custom-enumerator/bin/Debug/net8.0/custom-enumerator.runtimeconfig.json
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-8/custom-enumerator/bin/Debug/net8.0/custom-enumerator.dll
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-8/custom-enumerator/bin/Debug/net8.0/custom-enumerator.pdb
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-8/custom-enumerator/obj/Debug/net8.0/custom-enumerator.GeneratedMSBuildEditorConfig.editorconfig
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-8/custom-enumerator/obj/Debug/net8.0/custom-enumerator.AssemblyInfoInputs.cache
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-8/custom-enumerator/obj/Debug/net8.0/custom-enumerator.AssemblyInfo.cs
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-8/custom-enumerator/obj/Debug/net8.0/custom-enumerator.csproj.CoreCompileInputs.cache
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-8/custom-enumerator/obj/Debug/net8.0/custom-enumerator.sourcelink.json
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-8/custom-enumerator/obj/Debug/net8.0/custom-enumerator.dll
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-8/custom-enumerator/obj/Debug/net8.0/refint/custom-enumerator.dll
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-8/custom-enumerator/obj/Debug/net8.0/custom-enumerator.pdb
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-8/custom-enumerator/obj/Debug/net8.0/custom-enumerator.genruntimeconfig.cache
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-8/custom-enumerator/obj/Debug/net8.0/ref/custom-enumerator.dll
