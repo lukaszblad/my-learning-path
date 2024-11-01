@@ -1,0 +1,15 @@
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-10/non-generic-issues/bin/Debug/net8.0/non-generic-issues
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-10/non-generic-issues/bin/Debug/net8.0/non-generic-issues.deps.json
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-10/non-generic-issues/bin/Debug/net8.0/non-generic-issues.runtimeconfig.json
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-10/non-generic-issues/bin/Debug/net8.0/non-generic-issues.dll
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-10/non-generic-issues/bin/Debug/net8.0/non-generic-issues.pdb
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-10/non-generic-issues/obj/Debug/net8.0/non-generic-issues.GeneratedMSBuildEditorConfig.editorconfig
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-10/non-generic-issues/obj/Debug/net8.0/non-generic-issues.AssemblyInfoInputs.cache
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-10/non-generic-issues/obj/Debug/net8.0/non-generic-issues.AssemblyInfo.cs
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-10/non-generic-issues/obj/Debug/net8.0/non-generic-issues.csproj.CoreCompileInputs.cache
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-10/non-generic-issues/obj/Debug/net8.0/non-generic-issues.sourcelink.json
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-10/non-generic-issues/obj/Debug/net8.0/non-generic-issues.dll
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-10/non-generic-issues/obj/Debug/net8.0/refint/non-generic-issues.dll
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-10/non-generic-issues/obj/Debug/net8.0/non-generic-issues.pdb
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-10/non-generic-issues/obj/Debug/net8.0/non-generic-issues.genruntimeconfig.cache
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-10/non-generic-issues/obj/Debug/net8.0/ref/non-generic-issues.dll
