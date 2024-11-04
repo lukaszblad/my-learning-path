@@ -1,0 +1,15 @@
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-12/action-func-delegates/bin/Debug/net8.0/action-func-delegates
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-12/action-func-delegates/bin/Debug/net8.0/action-func-delegates.deps.json
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-12/action-func-delegates/bin/Debug/net8.0/action-func-delegates.runtimeconfig.json
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-12/action-func-delegates/bin/Debug/net8.0/action-func-delegates.dll
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-12/action-func-delegates/bin/Debug/net8.0/action-func-delegates.pdb
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-12/action-func-delegates/obj/Debug/net8.0/action-func-delegates.GeneratedMSBuildEditorConfig.editorconfig
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-12/action-func-delegates/obj/Debug/net8.0/action-func-delegates.AssemblyInfoInputs.cache
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-12/action-func-delegates/obj/Debug/net8.0/action-func-delegates.AssemblyInfo.cs
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-12/action-func-delegates/obj/Debug/net8.0/action-func-delegates.csproj.CoreCompileInputs.cache
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-12/action-func-delegates/obj/Debug/net8.0/action-func-delegates.sourcelink.json
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-12/action-func-delegates/obj/Debug/net8.0/action-func-delegates.dll
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-12/action-func-delegates/obj/Debug/net8.0/refint/action-func-delegates.dll
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-12/action-func-delegates/obj/Debug/net8.0/action-func-delegates.pdb
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-12/action-func-delegates/obj/Debug/net8.0/action-func-delegates.genruntimeconfig.cache
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-12/action-func-delegates/obj/Debug/net8.0/ref/action-func-delegates.dll

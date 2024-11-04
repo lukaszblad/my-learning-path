@@ -1,0 +1,15 @@
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-12/basic-delegate/bin/Debug/net8.0/basic-delegate
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-12/basic-delegate/bin/Debug/net8.0/basic-delegate.deps.json
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-12/basic-delegate/bin/Debug/net8.0/basic-delegate.runtimeconfig.json
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-12/basic-delegate/bin/Debug/net8.0/basic-delegate.dll
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-12/basic-delegate/bin/Debug/net8.0/basic-delegate.pdb
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-12/basic-delegate/obj/Debug/net8.0/basic-delegate.GeneratedMSBuildEditorConfig.editorconfig
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-12/basic-delegate/obj/Debug/net8.0/basic-delegate.AssemblyInfoInputs.cache
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-12/basic-delegate/obj/Debug/net8.0/basic-delegate.AssemblyInfo.cs
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-12/basic-delegate/obj/Debug/net8.0/basic-delegate.csproj.CoreCompileInputs.cache
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-12/basic-delegate/obj/Debug/net8.0/basic-delegate.sourcelink.json
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-12/basic-delegate/obj/Debug/net8.0/basic-delegate.dll
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-12/basic-delegate/obj/Debug/net8.0/refint/basic-delegate.dll
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-12/basic-delegate/obj/Debug/net8.0/basic-delegate.pdb
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-12/basic-delegate/obj/Debug/net8.0/basic-delegate.genruntimeconfig.cache
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-12/basic-delegate/obj/Debug/net8.0/ref/basic-delegate.dll
