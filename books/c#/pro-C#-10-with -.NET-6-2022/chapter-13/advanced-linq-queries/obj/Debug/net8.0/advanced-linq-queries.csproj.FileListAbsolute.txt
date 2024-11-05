@@ -1,0 +1,15 @@
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-13/advanced-linq-queries/bin/Debug/net8.0/advanced-linq-queries
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-13/advanced-linq-queries/bin/Debug/net8.0/advanced-linq-queries.deps.json
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-13/advanced-linq-queries/bin/Debug/net8.0/advanced-linq-queries.runtimeconfig.json
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-13/advanced-linq-queries/bin/Debug/net8.0/advanced-linq-queries.dll
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-13/advanced-linq-queries/bin/Debug/net8.0/advanced-linq-queries.pdb
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-13/advanced-linq-queries/obj/Debug/net8.0/advanced-linq-queries.GeneratedMSBuildEditorConfig.editorconfig
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-13/advanced-linq-queries/obj/Debug/net8.0/advanced-linq-queries.AssemblyInfoInputs.cache
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-13/advanced-linq-queries/obj/Debug/net8.0/advanced-linq-queries.AssemblyInfo.cs
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-13/advanced-linq-queries/obj/Debug/net8.0/advanced-linq-queries.csproj.CoreCompileInputs.cache
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-13/advanced-linq-queries/obj/Debug/net8.0/advanced-linq-queries.sourcelink.json
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-13/advanced-linq-queries/obj/Debug/net8.0/advanced-linq-queries.dll
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-13/advanced-linq-queries/obj/Debug/net8.0/refint/advanced-linq-queries.dll
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-13/advanced-linq-queries/obj/Debug/net8.0/advanced-linq-queries.pdb
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-13/advanced-linq-queries/obj/Debug/net8.0/advanced-linq-queries.genruntimeconfig.cache
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-13/advanced-linq-queries/obj/Debug/net8.0/ref/advanced-linq-queries.dll
