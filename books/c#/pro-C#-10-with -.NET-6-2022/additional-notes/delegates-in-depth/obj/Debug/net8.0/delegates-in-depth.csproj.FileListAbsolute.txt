@@ -1,0 +1,15 @@
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/additional-notes/delegates-in-depth/bin/Debug/net8.0/delegates-in-depth
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/additional-notes/delegates-in-depth/bin/Debug/net8.0/delegates-in-depth.deps.json
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/additional-notes/delegates-in-depth/bin/Debug/net8.0/delegates-in-depth.runtimeconfig.json
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/additional-notes/delegates-in-depth/bin/Debug/net8.0/delegates-in-depth.dll
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/additional-notes/delegates-in-depth/bin/Debug/net8.0/delegates-in-depth.pdb
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/additional-notes/delegates-in-depth/obj/Debug/net8.0/delegates-in-depth.GeneratedMSBuildEditorConfig.editorconfig
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/additional-notes/delegates-in-depth/obj/Debug/net8.0/delegates-in-depth.AssemblyInfoInputs.cache
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/additional-notes/delegates-in-depth/obj/Debug/net8.0/delegates-in-depth.AssemblyInfo.cs
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/additional-notes/delegates-in-depth/obj/Debug/net8.0/delegates-in-depth.csproj.CoreCompileInputs.cache
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/additional-notes/delegates-in-depth/obj/Debug/net8.0/delegates-in-depth.sourcelink.json
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/additional-notes/delegates-in-depth/obj/Debug/net8.0/delegates-in-depth.dll
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/additional-notes/delegates-in-depth/obj/Debug/net8.0/refint/delegates-in-depth.dll
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/additional-notes/delegates-in-depth/obj/Debug/net8.0/delegates-in-depth.pdb
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/additional-notes/delegates-in-depth/obj/Debug/net8.0/delegates-in-depth.genruntimeconfig.cache
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/additional-notes/delegates-in-depth/obj/Debug/net8.0/ref/delegates-in-depth.dll
