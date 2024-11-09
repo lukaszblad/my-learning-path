@@ -1,4 +1,6 @@
-﻿static void ExtraExecutingThread()
+﻿Console.ReadLine();
+
+static void ExtraExecutingThread()
 {
     // get the thread currently executing this method
     Thread currThread = Thread.CurrentThread;
