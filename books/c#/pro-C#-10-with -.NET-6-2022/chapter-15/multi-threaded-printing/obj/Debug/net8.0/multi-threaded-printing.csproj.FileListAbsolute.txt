@@ -1,0 +1,15 @@
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-15/multi-threaded-printing/obj/Debug/net8.0/multi-threaded-printing.GeneratedMSBuildEditorConfig.editorconfig
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-15/multi-threaded-printing/obj/Debug/net8.0/multi-threaded-printing.AssemblyInfoInputs.cache
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-15/multi-threaded-printing/obj/Debug/net8.0/multi-threaded-printing.AssemblyInfo.cs
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-15/multi-threaded-printing/obj/Debug/net8.0/multi-threaded-printing.csproj.CoreCompileInputs.cache
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-15/multi-threaded-printing/obj/Debug/net8.0/multi-threaded-printing.sourcelink.json
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-15/multi-threaded-printing/bin/Debug/net8.0/multi-threaded-printing
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-15/multi-threaded-printing/bin/Debug/net8.0/multi-threaded-printing.deps.json
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-15/multi-threaded-printing/bin/Debug/net8.0/multi-threaded-printing.runtimeconfig.json
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-15/multi-threaded-printing/bin/Debug/net8.0/multi-threaded-printing.dll
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-15/multi-threaded-printing/bin/Debug/net8.0/multi-threaded-printing.pdb
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-15/multi-threaded-printing/obj/Debug/net8.0/multi-threaded-printing.dll
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-15/multi-threaded-printing/obj/Debug/net8.0/refint/multi-threaded-printing.dll
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-15/multi-threaded-printing/obj/Debug/net8.0/multi-threaded-printing.pdb
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-15/multi-threaded-printing/obj/Debug/net8.0/multi-threaded-printing.genruntimeconfig.cache
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-15/multi-threaded-printing/obj/Debug/net8.0/ref/multi-threaded-printing.dll

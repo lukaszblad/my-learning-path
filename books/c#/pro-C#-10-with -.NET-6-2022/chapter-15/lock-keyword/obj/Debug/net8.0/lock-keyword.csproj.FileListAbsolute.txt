@@ -1,0 +1,15 @@
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-15/lock-keyword/obj/Debug/net8.0/lock-keyword.GeneratedMSBuildEditorConfig.editorconfig
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-15/lock-keyword/obj/Debug/net8.0/lock-keyword.AssemblyInfoInputs.cache
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-15/lock-keyword/obj/Debug/net8.0/lock-keyword.AssemblyInfo.cs
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-15/lock-keyword/obj/Debug/net8.0/lock-keyword.csproj.CoreCompileInputs.cache
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-15/lock-keyword/obj/Debug/net8.0/lock-keyword.sourcelink.json
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-15/lock-keyword/bin/Debug/net8.0/lock-keyword
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-15/lock-keyword/bin/Debug/net8.0/lock-keyword.deps.json
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-15/lock-keyword/bin/Debug/net8.0/lock-keyword.runtimeconfig.json
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-15/lock-keyword/bin/Debug/net8.0/lock-keyword.dll
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-15/lock-keyword/bin/Debug/net8.0/lock-keyword.pdb
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-15/lock-keyword/obj/Debug/net8.0/lock-keyword.dll
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-15/lock-keyword/obj/Debug/net8.0/refint/lock-keyword.dll
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-15/lock-keyword/obj/Debug/net8.0/lock-keyword.pdb
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-15/lock-keyword/obj/Debug/net8.0/lock-keyword.genruntimeconfig.cache
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-15/lock-keyword/obj/Debug/net8.0/ref/lock-keyword.dll

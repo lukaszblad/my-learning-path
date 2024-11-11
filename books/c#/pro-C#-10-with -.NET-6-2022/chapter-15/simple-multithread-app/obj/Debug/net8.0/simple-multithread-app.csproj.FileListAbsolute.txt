@@ -1,0 +1,15 @@
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-15/simple-multithread-app/bin/Debug/net8.0/simple-multithread-app
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-15/simple-multithread-app/bin/Debug/net8.0/simple-multithread-app.deps.json
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-15/simple-multithread-app/bin/Debug/net8.0/simple-multithread-app.runtimeconfig.json
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-15/simple-multithread-app/bin/Debug/net8.0/simple-multithread-app.dll
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-15/simple-multithread-app/bin/Debug/net8.0/simple-multithread-app.pdb
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-15/simple-multithread-app/obj/Debug/net8.0/simple-multithread-app.GeneratedMSBuildEditorConfig.editorconfig
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-15/simple-multithread-app/obj/Debug/net8.0/simple-multithread-app.AssemblyInfoInputs.cache
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-15/simple-multithread-app/obj/Debug/net8.0/simple-multithread-app.AssemblyInfo.cs
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-15/simple-multithread-app/obj/Debug/net8.0/simple-multithread-app.csproj.CoreCompileInputs.cache
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-15/simple-multithread-app/obj/Debug/net8.0/simple-multithread-app.sourcelink.json
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-15/simple-multithread-app/obj/Debug/net8.0/simple-multithread-app.dll
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-15/simple-multithread-app/obj/Debug/net8.0/refint/simple-multithread-app.dll
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-15/simple-multithread-app/obj/Debug/net8.0/simple-multithread-app.pdb
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-15/simple-multithread-app/obj/Debug/net8.0/simple-multithread-app.genruntimeconfig.cache
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-15/simple-multithread-app/obj/Debug/net8.0/ref/simple-multithread-app.dll
