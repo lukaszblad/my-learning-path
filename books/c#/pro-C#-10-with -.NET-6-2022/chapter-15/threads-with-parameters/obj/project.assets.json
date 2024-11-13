@@ -8,24 +8,27 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/home/lukaszblad/.nuget/packages/": {}
+    "C:\\Users\\lukas\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-15/threads-with-parameters/threads-with-parameters.csproj",
+      "projectUniqueName": "C:\\Users\\lukas\\Desktop\\Repositories\\my-learning-path\\books\\c#\\pro-C#-10-with -.NET-6-2022\\chapter-15\\threads-with-parameters\\threads-with-parameters.csproj",
       "projectName": "threads-with-parameters",
-      "projectPath": "/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-15/threads-with-parameters/threads-with-parameters.csproj",
-      "packagesPath": "/home/lukaszblad/.nuget/packages/",
-      "outputPath": "/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-15/threads-with-parameters/obj/",
+      "projectPath": "C:\\Users\\lukas\\Desktop\\Repositories\\my-learning-path\\books\\c#\\pro-C#-10-with -.NET-6-2022\\chapter-15\\threads-with-parameters\\threads-with-parameters.csproj",
+      "packagesPath": "C:\\Users\\lukas\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\lukas\\Desktop\\Repositories\\my-learning-path\\books\\c#\\pro-C#-10-with -.NET-6-2022\\chapter-15\\threads-with-parameters\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/lukaszblad/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\lukas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -38,6 +41,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -59,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/8.0.108/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

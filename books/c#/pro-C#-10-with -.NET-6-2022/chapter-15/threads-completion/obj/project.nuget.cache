@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iX2maWAD0flOpbGFqJMiEzmEPWIxGa7zUJHssjGu2c3Wd+6ZyZw8e+ARlCH9X5gTe6Iyank6lKUr333+rPo6bA==",
+  "dgSpecHash": "XUXOJONewa0=",
   "success": true,
-  "projectFilePath": "/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-15/threads-completion/threads-completion.csproj",
+  "projectFilePath": "C:\\Users\\lukas\\Desktop\\Repositories\\my-learning-path\\books\\c#\\pro-C#-10-with -.NET-6-2022\\chapter-15\\threads-completion\\threads-completion.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

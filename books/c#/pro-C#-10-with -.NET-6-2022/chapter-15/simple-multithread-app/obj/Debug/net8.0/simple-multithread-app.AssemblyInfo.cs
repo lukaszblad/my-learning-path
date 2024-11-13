@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("simple-multithread-app")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e9dd2451a081669385b0e3a5b3ae552d5ce443c5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c0d0aa2ffa237ea9e380aa1d65074010a95ee90")]
 [assembly: System.Reflection.AssemblyProductAttribute("simple-multithread-app")]
 [assembly: System.Reflection.AssemblyTitleAttribute("simple-multithread-app")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

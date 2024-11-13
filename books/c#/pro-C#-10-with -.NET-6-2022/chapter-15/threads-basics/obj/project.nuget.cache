@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qskLyNwZ/BRV8NAvSQTmydnFY+CpTJcp48FhB+1//NHrqm0L/fsghDXfJH0SoHb9qaBCfWTNn1TR0iRAE9k4zw==",
+  "dgSpecHash": "VTCRqsVFaz0=",
   "success": true,
-  "projectFilePath": "/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-15/threads-basics/threads-basics.csproj",
+  "projectFilePath": "C:\\Users\\lukas\\Desktop\\Repositories\\my-learning-path\\books\\c#\\pro-C#-10-with -.NET-6-2022\\chapter-15\\threads-basics\\threads-basics.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
