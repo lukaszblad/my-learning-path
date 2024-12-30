@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "fJ8rDiIxW1Ym0NH1+H+UMSngMOefLZUyZ5MAW38xxDzghFZqH75O90DIitHbNg3CZFtmEvb7DnkmkabafJ17YQ==",
+  "success": true,
+  "projectFilePath": "/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-16/CustomNamespaces/CustomNamespaces.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Error occurred while getting package vulnerability data: Resource temporarily unavailable (api.nuget.org:443)"
+    }
+  ]
+}
