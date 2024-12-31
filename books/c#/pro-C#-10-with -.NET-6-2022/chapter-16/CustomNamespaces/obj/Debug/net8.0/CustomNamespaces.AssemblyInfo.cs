@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CustomNamespaces")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8805a170d30f899e7c12b1a41f6c2f372c63c53e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad8b9e00b9472f23f77582f83bed3fca7cff5d9c")]
 [assembly: System.Reflection.AssemblyProductAttribute("CustomNamespaces")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CustomNamespaces")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

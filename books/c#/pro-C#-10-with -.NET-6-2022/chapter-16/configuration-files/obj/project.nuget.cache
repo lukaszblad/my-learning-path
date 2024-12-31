@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "+TFwiOqxSrk=",
+  "success": true,
+  "projectFilePath": "/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-16/configuration-files/configuration-files.csproj",
+  "expectedPackageFiles": [
+    "/home/lukaszblad/.nuget/packages/microsoft.extensions.configuration/9.0.0/microsoft.extensions.configuration.9.0.0.nupkg.sha512",
+    "/home/lukaszblad/.nuget/packages/microsoft.extensions.configuration.abstractions/9.0.0/microsoft.extensions.configuration.abstractions.9.0.0.nupkg.sha512",
+    "/home/lukaszblad/.nuget/packages/microsoft.extensions.configuration.binder/9.0.0/microsoft.extensions.configuration.binder.9.0.0.nupkg.sha512",
+    "/home/lukaszblad/.nuget/packages/microsoft.extensions.configuration.fileextensions/9.0.0/microsoft.extensions.configuration.fileextensions.9.0.0.nupkg.sha512",
+    "/home/lukaszblad/.nuget/packages/microsoft.extensions.configuration.json/9.0.0/microsoft.extensions.configuration.json.9.0.0.nupkg.sha512",
+    "/home/lukaszblad/.nuget/packages/microsoft.extensions.fileproviders.abstractions/9.0.0/microsoft.extensions.fileproviders.abstractions.9.0.0.nupkg.sha512",
+    "/home/lukaszblad/.nuget/packages/microsoft.extensions.fileproviders.physical/9.0.0/microsoft.extensions.fileproviders.physical.9.0.0.nupkg.sha512",
+    "/home/lukaszblad/.nuget/packages/microsoft.extensions.filesystemglobbing/9.0.0/microsoft.extensions.filesystemglobbing.9.0.0.nupkg.sha512",
+    "/home/lukaszblad/.nuget/packages/microsoft.extensions.primitives/9.0.0/microsoft.extensions.primitives.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
