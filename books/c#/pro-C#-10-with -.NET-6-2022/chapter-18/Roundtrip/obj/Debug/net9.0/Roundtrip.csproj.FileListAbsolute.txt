@@ -1,0 +1,15 @@
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-18\Roundtrip\bin\Debug\net9.0\Roundtrip.exe
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-18\Roundtrip\bin\Debug\net9.0\Roundtrip.deps.json
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-18\Roundtrip\bin\Debug\net9.0\Roundtrip.runtimeconfig.json
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-18\Roundtrip\bin\Debug\net9.0\Roundtrip.dll
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-18\Roundtrip\bin\Debug\net9.0\Roundtrip.pdb
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-18\Roundtrip\obj\Debug\net9.0\Roundtrip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-18\Roundtrip\obj\Debug\net9.0\Roundtrip.AssemblyInfoInputs.cache
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-18\Roundtrip\obj\Debug\net9.0\Roundtrip.AssemblyInfo.cs
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-18\Roundtrip\obj\Debug\net9.0\Roundtrip.csproj.CoreCompileInputs.cache
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-18\Roundtrip\obj\Debug\net9.0\Roundtrip.sourcelink.json
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-18\Roundtrip\obj\Debug\net9.0\Roundtrip.dll
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-18\Roundtrip\obj\Debug\net9.0\refint\Roundtrip.dll
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-18\Roundtrip\obj\Debug\net9.0\Roundtrip.pdb
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-18\Roundtrip\obj\Debug\net9.0\Roundtrip.genruntimeconfig.cache
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-18\Roundtrip\obj\Debug\net9.0\ref\Roundtrip.dll
