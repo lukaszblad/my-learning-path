@@ -1,0 +1,15 @@
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-19/file-stream-type/bin/Debug/net9.0/file-stream-type
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-19/file-stream-type/bin/Debug/net9.0/file-stream-type.deps.json
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-19/file-stream-type/bin/Debug/net9.0/file-stream-type.runtimeconfig.json
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-19/file-stream-type/bin/Debug/net9.0/file-stream-type.dll
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-19/file-stream-type/bin/Debug/net9.0/file-stream-type.pdb
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-19/file-stream-type/obj/Debug/net9.0/file-stream-type.GeneratedMSBuildEditorConfig.editorconfig
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-19/file-stream-type/obj/Debug/net9.0/file-stream-type.AssemblyInfoInputs.cache
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-19/file-stream-type/obj/Debug/net9.0/file-stream-type.AssemblyInfo.cs
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-19/file-stream-type/obj/Debug/net9.0/file-stream-type.csproj.CoreCompileInputs.cache
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-19/file-stream-type/obj/Debug/net9.0/file-stream-type.sourcelink.json
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-19/file-stream-type/obj/Debug/net9.0/file-stream-type.dll
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-19/file-stream-type/obj/Debug/net9.0/refint/file-stream-type.dll
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-19/file-stream-type/obj/Debug/net9.0/file-stream-type.pdb
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-19/file-stream-type/obj/Debug/net9.0/file-stream-type.genruntimeconfig.cache
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-19/file-stream-type/obj/Debug/net9.0/ref/file-stream-type.dll
