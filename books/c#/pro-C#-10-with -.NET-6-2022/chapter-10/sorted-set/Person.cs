@@ -1,7 +1,0 @@
-﻿namespace sorted_set;
-
-public class Person
-{
-    public string Name {get; set;}
-    public int Age {get; set;}
-}

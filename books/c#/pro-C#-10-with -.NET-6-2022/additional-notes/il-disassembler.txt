@@ -1,2 +1,0 @@
-command:
-    monodis project-name.dll

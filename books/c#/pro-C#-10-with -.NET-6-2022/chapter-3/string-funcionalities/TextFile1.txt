@@ -1,4 +1,0 @@
-﻿Strings are immutable, and when using methods, copies of the string are created in the heap. The string class can be inefficient and 
-result in bloated code if misused, especially when performing string concatenation or working with huge 
-amounts of text data. If you need to represent basic character data such as a US Social Security number, first 
-or last names, or simple bits of text used within your application, the string class is the perfect choice.
