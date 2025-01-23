@@ -1,0 +1,3 @@
+﻿The DateOnly and TimeOnly structs were added in .NET 6/C# 10, and each represents half of the 
+DateTime type. The DateOnly struct aligns with the SQL Server Date type, and the TimeOnly struct aligns with 
+the SQL Server Time type.

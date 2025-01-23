@@ -1,0 +1,15 @@
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-14/process-manipulator/bin/Debug/net8.0/process-manipulator
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-14/process-manipulator/bin/Debug/net8.0/process-manipulator.deps.json
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-14/process-manipulator/bin/Debug/net8.0/process-manipulator.runtimeconfig.json
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-14/process-manipulator/bin/Debug/net8.0/process-manipulator.dll
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-14/process-manipulator/bin/Debug/net8.0/process-manipulator.pdb
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-14/process-manipulator/obj/Debug/net8.0/process-manipulator.GeneratedMSBuildEditorConfig.editorconfig
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-14/process-manipulator/obj/Debug/net8.0/process-manipulator.AssemblyInfoInputs.cache
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-14/process-manipulator/obj/Debug/net8.0/process-manipulator.AssemblyInfo.cs
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-14/process-manipulator/obj/Debug/net8.0/process-manipulator.csproj.CoreCompileInputs.cache
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-14/process-manipulator/obj/Debug/net8.0/process-manipulator.sourcelink.json
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-14/process-manipulator/obj/Debug/net8.0/process-manipulator.dll
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-14/process-manipulator/obj/Debug/net8.0/refint/process-manipulator.dll
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-14/process-manipulator/obj/Debug/net8.0/process-manipulator.pdb
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-14/process-manipulator/obj/Debug/net8.0/process-manipulator.genruntimeconfig.cache
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-14/process-manipulator/obj/Debug/net8.0/ref/process-manipulator.dll

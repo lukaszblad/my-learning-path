@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BRjV8xkVhUQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lukas\\Desktop\\Repositories\\my-learning-path\\books\\c#\\pro-C#-10-with -.NET-6-2022\\chapter-18\\Roundtrip3\\RoundTrip.ilproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lukas\\.nuget\\packages\\runtime.win-x64.microsoft.netcore.ilasm\\9.0.0\\runtime.win-x64.microsoft.netcore.ilasm.9.0.0.nupkg.sha512",
+    "C:\\Users\\lukas\\.nuget\\packages\\runtime.win-x64.microsoft.netcore.ildasm\\9.0.0\\runtime.win-x64.microsoft.netcore.ildasm.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wcSvAqSPrQ0=",
+  "success": true,
+  "projectFilePath": "/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-16/CustomNamespaces/CustomNamespaces.csproj",
+  "expectedPackageFiles": [
+    "/home/lukaszblad/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.11/microsoft.netcore.app.host.linux-x64.8.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,4 @@
+﻿Thankfully, C# provides the checked keyword. When you wrap a statement (or a block of statements) 
+within the scope of the checked keyword, the C# compiler emits additional CIL instructions that test for 
+overflow conditions that may result when adding, multiplying, subtracting, or dividing two numerical 
+data types.

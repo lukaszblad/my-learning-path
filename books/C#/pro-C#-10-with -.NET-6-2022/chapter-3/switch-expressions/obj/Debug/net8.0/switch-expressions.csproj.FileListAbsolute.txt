@@ -1,0 +1,15 @@
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-3\chapter-3\switch-expressions\bin\Debug\net8.0\switch-expressions.exe
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-3\chapter-3\switch-expressions\bin\Debug\net8.0\switch-expressions.deps.json
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-3\chapter-3\switch-expressions\bin\Debug\net8.0\switch-expressions.runtimeconfig.json
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-3\chapter-3\switch-expressions\bin\Debug\net8.0\switch-expressions.dll
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-3\chapter-3\switch-expressions\bin\Debug\net8.0\switch-expressions.pdb
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-3\chapter-3\switch-expressions\obj\Debug\net8.0\switch-expressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-3\chapter-3\switch-expressions\obj\Debug\net8.0\switch-expressions.AssemblyInfoInputs.cache
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-3\chapter-3\switch-expressions\obj\Debug\net8.0\switch-expressions.AssemblyInfo.cs
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-3\chapter-3\switch-expressions\obj\Debug\net8.0\switch-expressions.csproj.CoreCompileInputs.cache
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-3\chapter-3\switch-expressions\obj\Debug\net8.0\switch-expressions.sourcelink.json
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-3\chapter-3\switch-expressions\obj\Debug\net8.0\switch-expressions.dll
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-3\chapter-3\switch-expressions\obj\Debug\net8.0\refint\switch-expressions.dll
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-3\chapter-3\switch-expressions\obj\Debug\net8.0\switch-expressions.pdb
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-3\chapter-3\switch-expressions\obj\Debug\net8.0\switch-expressions.genruntimeconfig.cache
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-3\chapter-3\switch-expressions\obj\Debug\net8.0\ref\switch-expressions.dll

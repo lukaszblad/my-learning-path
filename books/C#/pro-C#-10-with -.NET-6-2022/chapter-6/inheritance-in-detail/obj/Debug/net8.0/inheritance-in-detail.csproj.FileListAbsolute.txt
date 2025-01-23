@@ -1,0 +1,15 @@
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-6\inheritance-in-detail\obj\Debug\net8.0\inheritance-in-detail.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-6\inheritance-in-detail\obj\Debug\net8.0\inheritance-in-detail.AssemblyInfoInputs.cache
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-6\inheritance-in-detail\obj\Debug\net8.0\inheritance-in-detail.AssemblyInfo.cs
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-6\inheritance-in-detail\obj\Debug\net8.0\inheritance-in-detail.csproj.CoreCompileInputs.cache
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-6\inheritance-in-detail\obj\Debug\net8.0\inheritance-in-detail.sourcelink.json
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-6\inheritance-in-detail\bin\Debug\net8.0\inheritance-in-detail.exe
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-6\inheritance-in-detail\bin\Debug\net8.0\inheritance-in-detail.deps.json
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-6\inheritance-in-detail\bin\Debug\net8.0\inheritance-in-detail.runtimeconfig.json
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-6\inheritance-in-detail\bin\Debug\net8.0\inheritance-in-detail.dll
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-6\inheritance-in-detail\bin\Debug\net8.0\inheritance-in-detail.pdb
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-6\inheritance-in-detail\obj\Debug\net8.0\inheritance-in-detail.dll
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-6\inheritance-in-detail\obj\Debug\net8.0\refint\inheritance-in-detail.dll
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-6\inheritance-in-detail\obj\Debug\net8.0\inheritance-in-detail.pdb
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-6\inheritance-in-detail\obj\Debug\net8.0\inheritance-in-detail.genruntimeconfig.cache
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-6\inheritance-in-detail\obj\Debug\net8.0\ref\inheritance-in-detail.dll

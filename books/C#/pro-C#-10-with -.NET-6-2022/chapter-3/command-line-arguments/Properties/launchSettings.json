@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "command-line-arguments": {
+      "commandName": "Project",
+      "commandLineArgs": "test1 test2"
+    }
+  }
+}

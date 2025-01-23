@@ -1,0 +1,15 @@
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-2\vs-basic-console-app\vs-basic-console-app\bin\Debug\net8.0\vs-basic-console-app.exe
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-2\vs-basic-console-app\vs-basic-console-app\bin\Debug\net8.0\vs-basic-console-app.deps.json
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-2\vs-basic-console-app\vs-basic-console-app\bin\Debug\net8.0\vs-basic-console-app.runtimeconfig.json
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-2\vs-basic-console-app\vs-basic-console-app\bin\Debug\net8.0\vs-basic-console-app.dll
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-2\vs-basic-console-app\vs-basic-console-app\bin\Debug\net8.0\vs-basic-console-app.pdb
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-2\vs-basic-console-app\vs-basic-console-app\obj\Debug\net8.0\vs-basic-console-app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-2\vs-basic-console-app\vs-basic-console-app\obj\Debug\net8.0\vs-basic-console-app.AssemblyInfoInputs.cache
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-2\vs-basic-console-app\vs-basic-console-app\obj\Debug\net8.0\vs-basic-console-app.AssemblyInfo.cs
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-2\vs-basic-console-app\vs-basic-console-app\obj\Debug\net8.0\vs-basic-console-app.csproj.CoreCompileInputs.cache
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-2\vs-basic-console-app\vs-basic-console-app\obj\Debug\net8.0\vs-basic-console-app.sourcelink.json
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-2\vs-basic-console-app\vs-basic-console-app\obj\Debug\net8.0\vs-basic-console-app.dll
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-2\vs-basic-console-app\vs-basic-console-app\obj\Debug\net8.0\refint\vs-basic-console-app.dll
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-2\vs-basic-console-app\vs-basic-console-app\obj\Debug\net8.0\vs-basic-console-app.pdb
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-2\vs-basic-console-app\vs-basic-console-app\obj\Debug\net8.0\vs-basic-console-app.genruntimeconfig.cache
+C:\Users\lukas\Desktop\Repositories\my-learning-path\books\c#\pro-C#-10-with -.NET-6-2022\chapter-2\vs-basic-console-app\vs-basic-console-app\obj\Debug\net8.0\ref\vs-basic-console-app.dll

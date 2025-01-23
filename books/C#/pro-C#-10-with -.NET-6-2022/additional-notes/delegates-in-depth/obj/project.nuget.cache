@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XhokaDDKUQ8=",
+  "success": true,
+  "projectFilePath": "/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/additional-notes/delegates-in-depth/delegates-in-depth.csproj",
+  "expectedPackageFiles": [
+    "/home/lukaszblad/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.11/microsoft.netcore.app.host.linux-x64.8.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

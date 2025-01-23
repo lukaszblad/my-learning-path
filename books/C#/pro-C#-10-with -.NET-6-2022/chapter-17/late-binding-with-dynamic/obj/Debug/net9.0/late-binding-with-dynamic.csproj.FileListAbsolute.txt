@@ -1,0 +1,15 @@
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-17/late-binding-with-dynamic/bin/Debug/net9.0/late-binding-with-dynamic
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-17/late-binding-with-dynamic/bin/Debug/net9.0/late-binding-with-dynamic.deps.json
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-17/late-binding-with-dynamic/bin/Debug/net9.0/late-binding-with-dynamic.runtimeconfig.json
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-17/late-binding-with-dynamic/bin/Debug/net9.0/late-binding-with-dynamic.dll
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-17/late-binding-with-dynamic/bin/Debug/net9.0/late-binding-with-dynamic.pdb
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-17/late-binding-with-dynamic/obj/Debug/net9.0/late-binding-with-dynamic.GeneratedMSBuildEditorConfig.editorconfig
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-17/late-binding-with-dynamic/obj/Debug/net9.0/late-binding-with-dynamic.AssemblyInfoInputs.cache
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-17/late-binding-with-dynamic/obj/Debug/net9.0/late-binding-with-dynamic.AssemblyInfo.cs
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-17/late-binding-with-dynamic/obj/Debug/net9.0/late-binding-with-dynamic.csproj.CoreCompileInputs.cache
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-17/late-binding-with-dynamic/obj/Debug/net9.0/late-binding-with-dynamic.sourcelink.json
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-17/late-binding-with-dynamic/obj/Debug/net9.0/late-binding-with-dynamic.dll
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-17/late-binding-with-dynamic/obj/Debug/net9.0/refint/late-binding-with-dynamic.dll
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-17/late-binding-with-dynamic/obj/Debug/net9.0/late-binding-with-dynamic.pdb
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-17/late-binding-with-dynamic/obj/Debug/net9.0/late-binding-with-dynamic.genruntimeconfig.cache
+/home/lukaszblad/Repositories/my-learning-path/books/c#/pro-C#-10-with -.NET-6-2022/chapter-17/late-binding-with-dynamic/obj/Debug/net9.0/ref/late-binding-with-dynamic.dll
